@@ -15,8 +15,8 @@ Switch to a more powerful model and improve our predictors
 
 # File overview:
 
-prediction.ipynb - a Jupyter notebook that contains the code to predict Bitcoin prices
-sentiment.ipynb - a Jupyter notebook that creates our wikipedia edit dataset.
+<p><a href="(https://github.com/a-y-u-s-h-m-a-n/Bitcoin-Price-Predictor/blob/main/prediction.ipynb)"> prediction.ipynb </a>-a Jupyter notebook that contains the code to predict Bitcoin prices</p>
+<a href="(https://github.com/a-y-u-s-h-m-a-n/Bitcoin-Price-Predictor/blob/main/sentiment.ipynb)"> sentiment.ipynb </a>- a Jupyter notebook that creates our wikipedia edit dataset.
 
 # Local Setup
 Installation
