@@ -6,7 +6,7 @@ We'll develop a backtesting system and use a robust error metric so we can tell 
 
 This project can be extended to other cryptocurrencies as well.
 
-Project Steps
+## Project Steps ##
 
 Load in data
 Clean and merge data
